@@ -1,7 +1,7 @@
 # Mumtaz Store — eCommerce Store for Cosmetics & Baby Products
 ## Ecommmerce store
 A full-stack eCommerce web application built with React, Node.js, Express, and MongoDB.
-
+## Business turned local to online 1000%
 ## 🚀 Features
 
 ### User Side
